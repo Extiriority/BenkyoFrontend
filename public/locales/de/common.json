@@ -35,6 +35,7 @@
   "description": "Beschreibung",
   "source-language": "Dieser Kurs richtet sich an Personen, die",
   "target-language": "Und lernen wollen",
+  "target-language-2": "",
   "give-answer": "Schreiben Sie die richtige Antwort auf",
   "save": "speichern",
   "question": "Frage",
@@ -44,5 +45,5 @@
   "delete": "Entfernen",
   "delete-title-prompt":"Deck Entfernen",
   "delete-desc-prompt":"Sind Sie sicher, dass Sie dieses Deck entfernen möchten?",
-  "copy-link": "Link kopieren"
+  "delete-confirm": "Ja, ich bin sicher."
 }

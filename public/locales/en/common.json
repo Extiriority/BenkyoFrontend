@@ -35,6 +35,7 @@
   "description": "Description",
   "source-language": "This course is aimed at people who speak",
   "target-language": "And want to learn",
+  "target-language-2": "",
   "give-answer": "Write down the correct answer",
   "save": "Save",
   "question": "Question",
@@ -42,7 +43,7 @@
   "edit": "Edit",
   "cancel": "Cancel",
   "delete": "Delete",
-  "delete-title-prompt":"Delete Deck",
-  "delete-desc-prompt":"Are you sure you want to remove this deck?",
-  "copy-link": "Copy link"
+  "delete-title-prompt":"Delete deck",
+  "delete-desc-prompt":"Are you sure you want to permanently delete this deck? This action cannot be undone.",
+  "delete-confirm": "Yes, I'm sure."
 }
